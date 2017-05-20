@@ -47,10 +47,14 @@ table {
 }
 
 
-
-/* My CSS stuff starts here
+/* my css
 */
 
 #apple {
-  color: gold;
+  color: orange;
+}
+
+h1 {
+  font-size: 20px;
+  height: 40px;
 }
