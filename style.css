@@ -50,6 +50,10 @@ table {
 /* my css
 */
 
+body{
+  background-color: white;
+}
+
 #apple {
   color: orange;
 }
@@ -58,3 +62,4 @@ h1 {
   font-size: 20px;
   height: 40px;
 }
+
