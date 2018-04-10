@@ -49,38 +49,6 @@ table {
 
 /* my css */
 
-*,
-*:before,
-*:after {
-  -webkit-box-sizing: border-box;
-     -moz-box-sizing: border-box;
-          box-sizing: border-box;
-}
-
-
-.container{
-  margin: 0 auto;
-  padding-left: 30px;
-  padding-right: 30px;
-  width: 960px;
-  margin-bottom: 40px;
-}
-
-.basic{
-  margin-bottom: 20px;
-  margin-bottom: 20px;
-}
-
-h1 {
-  font-size: 20px;
-  border: 1px solid black;
-  margin: 20px 40px;
-  display: inline-block;
-}
-
-
-
-
-#apple {
-  color: orange;
+.center {
+    text-align: center;
 }
